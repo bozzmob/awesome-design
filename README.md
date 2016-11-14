@@ -1,10 +1,19 @@
-# Awesome Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Design
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/gztchan/awesome-design.svg?branch=master)](https://travis-ci.org/gztchan/awesome-design)
+[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/gztchan/awesome-design/pulls)
 
 > Awesome Design focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
 the repo keeps being updated continuously from people around the world who provide amazing resources.
 Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
 
 ![design](/design.png)
+
+#### What should I do with those resources?
+
+People, including developers, designers, scientists and others, create awesome things every single day.
+To be honest, we who are not supermen, can't know all best things from the world. So, for saving your time,
+I suggest you to pick those you like, take benefits from them, and finally put it into your kit. :smile:
 
 #### Symbols
 
@@ -24,6 +33,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Icon/Logo](#iconlogo-tada)
 - [Tool](#tool-wrench)
 - [Prototype](#prototype-memo)
+- [User Testing] (#user-testing-busts_in_silhouette)
 - [Mockup](#mockup-hatching_chick)
 - [Style Guide/Branding](#style-guidebranding-octocat)
 - [Tutorial](#tutorial-school)
@@ -35,13 +45,14 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## Todo
 
-- [ ] Design Leaders
+- [ ] Description
+- [x] Design Leaders
 - [ ] Comment resources, tools by symbols
 
 ## Soul of Design :sunny:
 
-- [Design Milk](http://design-milk.com/)
-- [frog](http://www.frogdesign.com/)
+- [Design Milk](http://design-milk.com/) - An online magazine dedicated to modern design, offers what’s new in art, architecture, interior design, furniture and decor, fashion and technology.
+- [frog](http://www.frogdesign.com/) - A global design and strategy firm.
 - [Danish Design Centre](http://ddc.dk/)
 - [Google Design](https://design.google.com/)
 - [Google Art & Culture](https://www.google.com/culturalinstitute/beta/)
@@ -73,19 +84,29 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Creative Review](http://www.creativereview.co.uk/)
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
 - [FORM UP NORTH](http://www.fromupnorth.com/)
+- [Facebook](http://facebook.design/)
 - [Facebook Design on Medium](https://medium.com/facebook-design)
 - [Hacking UI](http://hackingui.com/)
 - [THE INDUSTRY](http://theindustry.cc/)
 - [Hey Design](https://heydesign.com/)
 - [PixelSquid](https://www.pixelsquid.com/)
+- [LOGO DESIGN LOVE](http://www.logodesignlove.com/) - A website and book devoted to the design of logos and brand identities.
+- [DesignM.ag](https://designm.ag/)
+- [Hey Designer](http://heydesigner.com/)
+- [Great Apps Timeline](http://greatappstimeline.xyz/)
 
 ## Design Leader :dolls:
 
-> Coming soon...
+- [Creative Matrix](http://gztony.com/creative-matrix-page/)
+
+Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated list of designers who always share their articles, designs and works.
+
+- [365 Awesome Designers](http://365awesomedesigners.com/)
+- [Designer List by Muzli](designers.muz.li)
 
 ## Resources :package:
 
-- [Designer News](https://www.designernews.co/)
+- [Designer News](https://www.designernews.co/) - A large, global community of people working in design and technology or those interested in the topics.
 - [Sidebar](http://sidebar.io/)
 - [Webfieldmanual](http://webfieldmanual.com/) :rocket:
 - [WEBDESIGNER NEWS](http://www.webdesignernews.com/)
@@ -123,7 +144,6 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [flatdsgn](http://flatdsgn.com/)
 - [designfridge](http://www.designfridge.co.uk/)
-- [defringe](http://www.defringe.com/)
 - [Siiimple](http://siiimple.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
 - [Land Book](http://land-book.com/)
@@ -150,9 +170,17 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [UX Project Checklist](http://uxchecklist.github.io/)
 - [TRIDIV](http://tridiv.com/) - Making 3D in CSS has never been easier
 - [function](http://wefunction.com/handmade-font-bundle/)
+- [Mobile Mozaic](http://www.mobilemozaic.com/)
+- [Stocky](http://stocky.pro/)
+- [wwwhere](http://wwwhere.io/)
+- [Checkout Pages](http://www.checkoutpages.xyz/)
+- [Pricing Pages](http://www.pricingpages.xyz/)
+- [Product Pages](http://www.productpages.xyz/)
+- [Store Pages](http://www.storepages.xyz/)
 
 ## High Quality Photos :tokyo_tower:
 
+- [Albumarium](http://albumarium.com/)
 - [The Stocks](http://thestocks.im/)
 - [Polayoutu](http://www.polayoutu.com/collections)
 - [Illusion](http://illusion.scene360.com/)
@@ -186,6 +214,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Cupcake](http://cupcake.nilssonlee.se/)
 - [Pinterest](https://www.pinterest.com/)
 - [pixabay](https://pixabay.com/)
+- [depositphotos](http://depositphotos.com/)
+- [Stocksy](https://www.stocksy.com)
 
 ## Color :art:
 
@@ -214,12 +244,17 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [HTML color codes](http://htmlcolorcodes.com/)
 - [palettr](http://palettr.com/)
 - [Paletton](http://paletton.com/)
+- [Palettable](http://www.palettable.io/)
+- [Colllor](http://colllor.com/)
+- [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
+- [Google Colors](https://material.google.com/style/color.html)
 
 ## Font :mahjong:
 
 - [typography](http://www.typography.com/)
 - [i love typography](http://ilovetypography.com/)
 - [Type is Beautiful](http://www.typeisbeautiful.com/)
+- [Butterick's Practical Typography](http://practicaltypography.com/)
 - [Fonts](https://www.fonts.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Typewolf](https://www.typewolf.com/)
@@ -230,6 +265,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Typekit](https://typekit.com/fonts)
 - [Google Fonts](https://fonts.google.com/)
+- [Google Font Combinations](https://femmebot.github.io/google-type/)
 - [JUSTFONT BLOG](http://blog.justfont.com/)
 - [Font Library](http://katydecorah.com/font-library/)
 - [Type Guide](http://www.typogui.de/)
@@ -238,12 +274,21 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [fontfling](http://fontfling.com/)
 - [glyphr](http://www.glyphrstudio.com/online/)
 - [LOST TYPE](http://www.losttype.com/browse/)
+- [Brick](http://brick.im/)
+- [Village](https://vllg.com/)
+- [Klim](https://klim.co.nz/)
+- [Milieu Grotesque](http://www.milieugrotesque.com/)
+- [Lineto](https://lineto.com/)
+- [Colophon](http://www.colophon-foundry.org/)
+- [T26](https://www.t26.com/) :moneybag:
+- [Typ.io](https://typ.io)
 
 ## Icon/Logo :tada:
 
 - [macosicongallery](http://macosicongallery.com/)
 - [icon54](https://icon54.com)
 - [icons8](https://icons8.com/)
+- [Icon Finder](https://www.iconfinder.com/)
 - [icon dock](http://icondock.com/)
 - [genericons](https://genericons.com/)
 - [FlatIcons](http://flaticons.net/)
@@ -278,6 +323,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Font Awesome](http://fontawesome.io/)
 - [IconMoon](https://icomoon.io/)
 - [ICONO](http://saeedalipoor.github.io/icono/)
+- [svg-icon](http://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection DONE RIGHT.
 
 ## Tool :wrench:
 
@@ -288,10 +334,10 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
   - [Sketchcasts](https://www.sketchcasts.net/)
   - [Sketch.im](http://sketch.im/)
-- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) :moneybag:
+- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - Best imaging and design app is at the core of almost every creative project. :moneybag:
   - [PSD Repo](https://psdrepo.com/)
   - [PSDDD](http://www.psddd.co/)
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Create beautiful vector art. :moneybag:
+- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. :moneybag:
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
@@ -299,22 +345,51 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :rocket::computer:
 - [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. :rocket::moneybag:
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone. :moneybag:
-- [Iconjar](http://geticonjar.com/)
+- [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::moneybag:
+- [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
+- [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool. :moneybag:
+- [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
+- [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
 
 ## Prototype :memo:
 
-- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.
-- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
-- [Origami](https://facebook.github.io/origami/) - Design Prototyping. :computer:
-- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations.
-- [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
-- [Pixate](http://www.pixate.com/) - Make your ideas a reality. :computer:
-- [Proto.io](https://proto.io/) - Prototypes that feel real.
+- [Prototyping Tools](http://www.prototypingtools.co/)
+- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1::rocket::moneybag:
+- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1::rocket::moneybag:
+- [Origami](https://facebook.github.io/origami/) - Design Prototyping. :+1::computer:
+- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer::moneybag:
+- [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams. :moneybag:
+- ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality.~~
+- [Proto.io](https://proto.io/) - Prototypes that feel real. :moneybag:
 - [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
-- [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps :computer:
+- [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer::moneybag:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
-- [Axure](http://www.axure.com/) - Design the right solution and align your team.
-- [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device.
+- [Axure](https://www.axure.com/) - Design the right solution and align your team. :+1::moneybag:
+- [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device. :computer:
+- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. :moneybag:
+- [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
+- [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
+- [MockingBot](https://mockingbot.com/?utm_source=github) - Mobile prototyping tool without headache. :+1::rocket:
+- [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype. :moneybag:
+- [Prott](https://prottapp.com/) - Prototyping tool for Web, iOS, Android apps
+
+## User Testing :busts_in_silhouette:
+
+- [Lookback.io](https://lookback.io/) - Capture exactly how users experience your product: no guesswork required.
+- [UserTesting](https://www.usertesting.com/) - Get videos of real people speaking their thoughts as they use your website or mobile app. Go beyond analytics and understand why users do what they do.
+- [UserBrain](https://userbrain.net/) - Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.
+- [Reflector](http://www.airsquirrels.com/reflector/) - Wireless mirroring and streaming receiver.
+- [User Zoom](http://www.userzoom.co.uk/) - All-in-One Agile UX Research Platform.
+- [Ethn.io](https://ethn.io/) - Remote user testing suite. Intercept real people for user research. :moneybag:
+- [Usabilla](https://usabilla.com/) - Customer feedback and survey tool.
+- [UserTest.io](https://usertest.io/) - Remote, easy and simple user testing.
+- [Validately](https://validately.com/) - Easy way to recruit testers, launch tests, and analyze results.
+- [Users Think](http://usersthink.com/) - Get user feedback from real people, on demand, when you need it.
+- [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
+- [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
+- [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :moneybag: :+1:
+- [Clicktale](https://www.clicktale.com) - User experience management platform.
 
 ## Mockup :hatching_chick:
 
@@ -324,7 +399,10 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - Facebook Mockups
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
+- [Scenery](https://www.getscenery.com/) :computer:
 - [UINames](http://uinames.com/)
+- [NinjaMock](http://ninjamock.com/)
+- [Smartmockups app](https://app.smartmockups.com/)
 
 ## Style Guide/Branding :octocat:
 
@@ -332,7 +410,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
 - [Fontshop](https://www.fontshop.com/styleguide/)
-- [Lonly Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+- [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Yelp](https://www.yelp.com/styleguide)
 - [IBM](http://www.ibm.com/design/language/)
@@ -346,13 +424,14 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Facebook - Brand Book](http://3835642c2693476aa717-d4b78efce91b9730bcca725cf9bb0b37.r51.cf1.rackcdn.com/NEW%20WM%20Facebook%20Identity%20Guide%20Light.pdf)
 - [Vimeo](https://vimeo.com/about/brand_guidelines)
 - [Ubuntu](http://design.ubuntu.com/)
+- [BBC](http://www.bbc.co.uk/gel)
 - [Channel4](http://styleguides.channel4.com/E4_StyleGuide.pdf)
 - [Twitter](https://brand.twitter.com/)
 - [Nike Pro](http://manualcreative.com/project/nike-pro-services/)
 - [Medium](https://www.behance.net/gallery/7226653/Medium-Brand-Development)
 - [Linkedin](https://brand.linkedin.com/)
 - [Red Cross](http://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf)
-- [Marval](https://marvelapp.com/styleguide/overview/introduction)
+- [Marvel](https://marvelapp.com/styleguide/overview/introduction)
 - [buffer](https://buffer.com/style-guide)
 - [VSCO](http://vsco.co/id/journal/p/1)
 - [Instagram](https://www.instagram-brand.com/)
@@ -365,6 +444,9 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
   - [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
   - [Design for Glass](https://developers.google.com/glass/design/)
+  - [Material design](https://material.google.com/)
+- Microsoft
+  - [Microsoft Design](https://www.microsoft.com/en-us/design)
 - NASA
   - [2011](http://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
   - [1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
@@ -441,6 +523,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 ## Podcast :radio:
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
+- [Designer News Podcast](https://www.designernews.co/podcast/)
 - [Shop Talk](http://shoptalkshow.com/)
 - [workmode](http://workmode.show/)
 - [UX Podcast](http://uxpodcast.com/)
@@ -471,6 +554,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
 - [**Muzli**](http://designers.muz.li/) - Design Inspiration
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
+- [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
 
 ## License
 
